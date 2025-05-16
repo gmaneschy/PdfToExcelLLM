@@ -1,6 +1,6 @@
 import os
 
-os.environ["LLAMA_CLOUD_API_KEY"] = "llx-R8ZKh58vmQtzBWwWkzmlVxZZaZ8L3EJbI3HeTlCQhAblO8vf"
+os.environ["LLAMA_CLOUD_API_KEY"] = "SUA CHAVE API"
 """
 import nest_asyncio
 nest_asyncio.apply()
